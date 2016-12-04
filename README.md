@@ -1,5 +1,5 @@
 # xalstnx.github.io
 
 ==
-이민수
+한양대학교 ERICA 컴퓨터공학과 이민수
 ==
